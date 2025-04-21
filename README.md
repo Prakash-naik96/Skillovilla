@@ -1,6 +1,6 @@
-# 🛒 Retail Data Analytics Project – Freshco Hypermarket (Skillovilla, 2025)
+# 🛒 Retail Data Analytics Project – using Excel
 Objective:
-To extract actionable insights from Freshco Hypermarket’s transactional and customer-level data to improve business performance and customer satisfaction.
+To extract actionable insights from Raw Data transactional and customer-level data to improve business performance and customer satisfaction.
 
 📌 Project Summary:
 
